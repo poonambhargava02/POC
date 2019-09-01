@@ -1,6 +1,7 @@
 public class AdvanceChatterPageController {
     
     public String strvar {get;set;}
+    public String stringTestVar {get;set;}
     public String val{get;set;}
     public List<SelectOption> UserOptions{get;set;}
     
